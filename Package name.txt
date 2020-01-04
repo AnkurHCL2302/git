@@ -1,0 +1,21 @@
+Package name:com.google.android.calculator
+
+Activity:com.android.calculator2.calculator
+
+
+Calender Package: com.google.android.calendar
+
+Activity: com.google.android.calendar.alerts.DismissAlarmsService
+
+Amazon
+
+Package: in.amazon.mShop.android.shopping
+
+activity  name: com.amazon.mShop.publicurl.PublicURLActivity
+
+
+PAYTM : net.one97.paytm
+
+Activity: net.one97.paytm.o2o.common.AJRRedeemTnCActivity
+
+
